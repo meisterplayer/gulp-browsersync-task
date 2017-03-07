@@ -1,0 +1,22 @@
+{
+  "name": "@npm-wearetriple/gulp-browsersync-task",
+  "version": "1.0.0",
+  "description": "Browser sync task for Gulp",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://git.triple-it.nl/javascript/gulp-browsersync-task.git"
+  },
+  "keywords": [
+    "gulp",
+    "browsersync",
+    "task"
+  ],
+  "author": "Triple",
+  "license": "ISC",
+  "dependencies": {
+    "browser-sync": "^2.18.8",
+    "lodash.merge": "^4.6.0"
+  }
+}
