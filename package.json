@@ -1,5 +1,5 @@
 {
-  "name": "@npm-wearetriple/gulp-browsersync-task",
+  "name": "meister-gulp-browsersync-task",
   "version": "1.0.1",
   "description": "Browser sync task for Gulp",
   "main": "index.js",
